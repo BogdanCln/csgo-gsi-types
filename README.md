@@ -1,8 +1,5 @@
 ## Types for CS:GO Game State Integration
 
-Install by:
-`npm install csgo-gsi-types --save-dev`
-
 ### Example:
 ```ts
 // Type for unknown/general state
