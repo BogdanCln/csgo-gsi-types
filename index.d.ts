@@ -416,8 +416,7 @@ declare module "csgo-gsi-types" {
   export import GameStateMenu = __GSICSGO.GameStateMenu
   export import GameState = __GSICSGO.GameState
 
-  
-  export import Added = __GSICSGO.GameState
-  export import Previously = __GSICSGO.GameState
+  export import Added = __GSICSGO.AddedPlaying
+  export import Previously = __GSICSGO.Previously
   export import MapTeam = __GSICSGO.Team
 }
